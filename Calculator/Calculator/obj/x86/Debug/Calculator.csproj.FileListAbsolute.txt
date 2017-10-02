@@ -1,0 +1,7 @@
+C:\Users\PLH\Documents\GitHub\contactsapp\calculator-Nhatquy123\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\PLH\Documents\GitHub\contactsapp\calculator-Nhatquy123\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\PLH\Documents\GitHub\contactsapp\calculator-Nhatquy123\Calculator\Calculator\obj\x86\Debug\Calculator.frmMain.resources
+C:\Users\PLH\Documents\GitHub\contactsapp\calculator-Nhatquy123\Calculator\Calculator\obj\x86\Debug\Calculator.Properties.Resources.resources
+C:\Users\PLH\Documents\GitHub\contactsapp\calculator-Nhatquy123\Calculator\Calculator\obj\x86\Debug\Calculator.csproj.GenerateResource.Cache
+C:\Users\PLH\Documents\GitHub\contactsapp\calculator-Nhatquy123\Calculator\Calculator\obj\x86\Debug\Calculator.exe
+C:\Users\PLH\Documents\GitHub\contactsapp\calculator-Nhatquy123\Calculator\Calculator\obj\x86\Debug\Calculator.pdb
